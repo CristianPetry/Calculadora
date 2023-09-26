@@ -1,6 +1,6 @@
 # Calculadora
 ## Projeto
-https://cristianpetry.github.io/calculadora/
+https://cristianpetry.github.io/Calculadora/
 
 
 ## Tecnologias utilizadas
